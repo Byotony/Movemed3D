@@ -1,0 +1,11 @@
+Model Information:
+* title:	Atlético de Madrid 3d print logo
+* source:	https://sketchfab.com/3d-models/atletico-de-madrid-3d-print-logo-bb0c1da4e910476986e89e3b1f2fed92
+* author:	CadForCam (https://sketchfab.com/yuelands)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Atlético de Madrid 3d print logo" (https://sketchfab.com/3d-models/atletico-de-madrid-3d-print-logo-bb0c1da4e910476986e89e3b1f2fed92) by CadForCam (https://sketchfab.com/yuelands) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
